@@ -3,8 +3,8 @@
   text-align:center;
   background-color:lightblue;
   opacity: 0.8;
-
 }
+
 .container2{
   width:500;
   height: 400;
@@ -12,6 +12,7 @@
   background-color:lightblue;
   text-align:center;
 }
+
 button {
   background-color:lightblue;
   font-size: 15px;
