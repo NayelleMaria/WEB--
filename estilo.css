@@ -1,17 +1,12 @@
 .container{
+  display:flex;
+  flex-direction: column;
   font-size:100px;
   text-align:center;
   background-color:lightblue;
   opacity: 0.8;
 }
 
-.container2{
-  width:100vw;
-  height: 100vh;
-  opacity: 0.8;
-  background-color:lightblue;
-  text-align:center;
-}
 
 button {
   background-color:lightblue;
