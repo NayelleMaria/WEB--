@@ -6,8 +6,8 @@
 }
 
 .container2{
-  width:500;
-  height: 400;
+  width:100vw;
+  height: 100vh;
   opacity: 0.8;
   background-color:lightblue;
   text-align:center;
