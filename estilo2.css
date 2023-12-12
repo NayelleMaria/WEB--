@@ -1,25 +1,27 @@
-# WEB--
 .container{
+    font-size:24px;
     background-color: lightblue;
     display: flex;
-    height: 100px;
-    width: 200;
-    text-aling:center;
+    height: 100vh;
+    width: 100vw;
+    text-align:center;
+    align-items:center;
     flex-direction:column;
     justify-content: center;
     opacity: 0.8;
 }
-.button {
+button {
   background-color:lightblue;
   font-size: 15px;
   opacity:0.8;
-  text-align: center;
+  text-align:center;
 }
 .img1 {
   display: block;
   margin: 0 auto;
-  width: 400vh;
-  height: 300wh;
+  width: 360px;
+  height: 280px;
   text-align: center;
   background-color: lightblue;
 }
+  
