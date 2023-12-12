@@ -1,9 +1,25 @@
 # WEB--
-Droga
-container{
+.container{
     background-color: lightblue;
     display: flex;
-    height: 100vh;
-    width: 100vw;
+    height: 100px;
+    width: 200;
     text-aling:center;
-  
+    flex-direction:column;
+    justify-content: center;
+    opacity: 0.8;
+}
+.button {
+  background-color:lightblue;
+  font-size: 15px;
+  opacity:0.8;
+  text-align: center;
+}
+.img1 {
+  display: block;
+  margin: 0 auto;
+  width: 400px;
+  height: 300px;
+  text-align: center;
+  background-color: lightblue;
+}
